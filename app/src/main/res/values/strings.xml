@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedElementAnimation</string>
+    <string name="transitionName">personDetails</string>
+    <string name="sharedimage">SharedImage</string>
+    <string name="placeholder_firstname">FirstName</string>
+    <string name="placeholder_lastname">LastName</string>
+    <string name="placeholder_address">Address</string>
+    <string name="placeholder_phone">Phone</string>
+</resources>
